@@ -1,6 +1,8 @@
 # Asset-Cache
 The standalone cache library
 
+*If you're looking for the application tool to manage cache look [HERE](https://github.com/DTanJP/Asset-Cache-Packer/blob/master/README.md)
+
 Includes 2 different versions of the cache class along with demonstrations of using the cache class
 
 # Standard version
