@@ -1,5 +1,5 @@
 # Asset-Cache
-The standalone cache library
+The standalone cache API
 
 *If you're looking for the application tool to manage cache look [HERE](https://github.com/DTanJP/Asset-Cache-Packer)
 
