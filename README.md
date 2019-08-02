@@ -3,7 +3,7 @@ The standalone cache API
 
 If you're looking for the application tool to manage cache look [HERE](https://github.com/DTanJP/Asset-Cache-Packer)
 
-This are 2 different versions of the cache class along with demonstrations of using the cache class
+There are 2 different versions of the cache class along with demonstrations of using the cache class
 
 # Standard version
 ### Only includes loading the cache and it's contents into memory and cannot do anything else. This is the ideal version for game/application development
