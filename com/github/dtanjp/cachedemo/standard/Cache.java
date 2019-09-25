@@ -1,5 +1,3 @@
-package com.github.dtanjp.cachedemo.standard;
-
 import java.io.ByteArrayOutputStream;
 import java.io.DataInputStream;
 import java.io.File;
